@@ -1,0 +1,17 @@
+311c0c220ca911bca7e8c7f50957ff8d *DESCRIPTION
+c4a4ad5f8d95e5289d7445730c7aae29 *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+9630772833c0ebe9f083528f9a930146 *R/calculate_agents.R
+542b33d2848d891b5565ec490f458e14 *R/data.R
+61000ae18f6b5d2ad7838f589d1e2e51 *R/erlang_c.R
+f68a498f029e8b4d850d0261e054fb7a *R/erlang_c_app.R
+aabef02042fe144d2fcdccfc0d6a45e0 *README.md
+d4e2ec5fef661037c8e7700da02e9109 *data/translations.rda
+c98542ef65d0f2ac008a60e6eea27134 *man/calculate_agents.Rd
+29a53876afe4defae924c2df1919744d *man/erlang_c.Rd
+ecbb2289d5ef3953d5a2933768c9837c *man/erlang_c_app.Rd
+43746c2d517e3dc23213b7353375ca56 *man/figures/README-ShinyApp.jpg
+45afed97389b3edd984e567446e70cd8 *man/translations.Rd
+da2843ad7ee8c101918a4e35815276c8 *tests/testthat.R
+74e8f7f1a7e94fb07c5bc823196b0765 *tests/testthat/test-calculate_agents.R
+a38ddea9be4de1ccb6ff55ee88bdf12e *tests/testthat/test-erlang_c.R
